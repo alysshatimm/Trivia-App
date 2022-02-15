@@ -22,11 +22,19 @@ body {
 
 .card {
     width: 200px;
-    height: 120px;
+    height: 150px;
     border-radius: 20px;
     background-color: rgb(25, 25, 94);
     text-align: center;
     padding: 5px;
     margin: 10px;
     border: solid white 5px;
+}
+
+.correct-answer {
+    background-color: rgba(52, 180, 52, 0.671);
+}
+
+.wrong-answer {
+    background-color: rgba(224, 55, 55, 0.671);
 }
