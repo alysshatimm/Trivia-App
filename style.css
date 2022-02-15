@@ -18,6 +18,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
+    font-size: 25px;
 }
 
 .card {
@@ -29,6 +30,13 @@ body {
     padding: 5px;
     margin: 10px;
     border: solid white 5px;
+    font-size: 50px;
+}
+
+button {
+    background-color: rgb(189, 208, 216);
+    border-radius: 5px;
+    margin-top: 10px;
 }
 
 .correct-answer {
