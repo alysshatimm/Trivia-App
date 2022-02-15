@@ -10,6 +10,10 @@ body {
     align-items: center;
 }
 
+#game {
+    display: flex;
+}
+
 .genre-column {
     display: flex;
     flex-direction: column;
